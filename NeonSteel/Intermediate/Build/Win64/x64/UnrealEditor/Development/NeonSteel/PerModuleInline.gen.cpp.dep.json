@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\tfs\\capstone\\main\\neonsteel-main\\neonsteel\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\neonsteel\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\tfs\\capstone\\main\\neonsteel-main\\neonsteel\\intermediate\\build\\win64\\x64\\neonsteeleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\tfs\\capstone\\main\\neonsteel-main\\neonsteel\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\neonsteel\\definitions.neonsteel.h",
+            "d:\\epic\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
