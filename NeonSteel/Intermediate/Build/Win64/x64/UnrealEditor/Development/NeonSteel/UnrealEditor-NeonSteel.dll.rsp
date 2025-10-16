@@ -20,7 +20,7 @@
 /ALTERNATENAME:__imp___std_init_once_complete=__imp_InitOnceComplete
 /DELAYLOAD:"d3d12.dll"
 /DELAYLOAD:"DBGHELP.DLL"
-/LIBPATH:"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/lib/x64"
+/LIBPATH:"C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/lib/x64"
 /LIBPATH:"C:/Program Files (x86)/Windows Kits/10/lib/10.0.22621.0/ucrt/x64"
 /LIBPATH:"C:/Program Files (x86)/Windows Kits/10/lib/10.0.22621.0/um/x64"
 /NODEFAULTLIB:"LIBCMT"
@@ -36,12 +36,12 @@
 /FUNCTIONPADMIN:6
 /NOIMPLIB
 /NOEXP
-"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.obj"
-"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/Module.NeonSteel.gen.cpp.obj"
-"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/NeonSteel.cpp.obj"
-"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/VHealthComponent.cpp.obj"
-"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/PerModuleInline.gen.cpp.obj"
-"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/Default.rc2.res"
+"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/Module.NeonSteel.gen.cpp.obj"
+"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/NeonSteel.cpp.obj"
+"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/VHealthComponent.cpp.obj"
+"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/PerModuleInline.gen.cpp.obj"
+"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/Default.rc2.res"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Core/UnrealEditor-Core.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/CoreUObject/UnrealEditor-CoreUObject.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Engine/UnrealEditor-Engine.lib"
@@ -71,6 +71,6 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Binaries/Win64/UnrealEditor-NeonSteel.dll"
-/PDB:"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Binaries/Win64/UnrealEditor-NeonSteel.pdb"
+/OUT:"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Binaries/Win64/UnrealEditor-NeonSteel.dll"
+/PDB:"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Binaries/Win64/UnrealEditor-NeonSteel.pdb"
 /ignore:4078
