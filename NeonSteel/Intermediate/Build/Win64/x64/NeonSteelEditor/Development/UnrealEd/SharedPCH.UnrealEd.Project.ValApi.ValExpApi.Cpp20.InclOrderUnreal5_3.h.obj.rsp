@@ -1,4 +1,4 @@
-"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.NonOptimized.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.cpp"
+"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.cpp"
 /I "."
 /I "../Intermediate/Build/Win64/UnrealEditor/Inc/UnrealEd/UHT"
 /I "Programs/UnrealLightmass/Public"
@@ -314,11 +314,11 @@
 /external:I "C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/shared"
 /external:I "C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/um"
 /external:I "C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/winrt"
-/Yc"SharedPCH.UnrealEd.Project.NonOptimized.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h"
-/Fp"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.NonOptimized.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.pch"
-/Fo"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.NonOptimized.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.obj"
-/experimental:log "C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.NonOptimized.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.sarif"
-/sourceDependencies "C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.NonOptimized.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.dep.json"
+/Yc"SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h"
+/Fp"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.pch"
+/Fo"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.obj"
+/experimental:log "C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.sarif"
+/sourceDependencies "C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.dep.json"
 /Zc:inline
 /nologo
 /Oi
@@ -339,7 +339,9 @@
 /D_DISABLE_EXTENDED_ALIGNED_STORAGE
 /Ob2
 /d2ExtendedWarningInfo
-/Od
+/Ox
+/Ot
+/GF
 /errorReport:prompt
 /EHsc
 /DPLATFORM_EXCEPTIONS_DISABLED=0
@@ -347,6 +349,7 @@
 /MD
 /bigobj
 /fp:fast
+/Zo
 /Zp8
 /W4
 /we4456
