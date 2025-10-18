@@ -1,12 +1,13 @@
-"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/PerModuleInline.gen.cpp"
-@"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/NeonSteel.Shared.rsp"
-/FI"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h"
-/FI"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/Definitions.NeonSteel.h"
-/Yu"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h"
-/Fp"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.pch"
-/Fo"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/PerModuleInline.gen.cpp.obj"
-/experimental:log "C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/PerModuleInline.gen.cpp.sarif"
-/sourceDependencies "C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/PerModuleInline.gen.cpp.dep.json"
+"D:/School Stuff/Notes and Work For Classes/New Neon Steel/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/PerModuleInline.gen.cpp"
+@"D:/School Stuff/Notes and Work For Classes/New Neon Steel/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/NeonSteel.Shared.rsp"
+/FI"D:/School Stuff/Notes and Work For Classes/New Neon Steel/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h"
+/FI"D:/School Stuff/Notes and Work For Classes/New Neon Steel/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/Definitions.NeonSteel.h"
+/Yu"D:/School Stuff/Notes and Work For Classes/New Neon Steel/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h"
+/Fp"D:/School Stuff/Notes and Work For Classes/New Neon Steel/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.pch"
+/Fo"D:/School Stuff/Notes and Work For Classes/New Neon Steel/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/PerModuleInline.gen.cpp.obj"
+/experimental:log "D:/School Stuff/Notes and Work For Classes/New Neon Steel/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/PerModuleInline.gen.cpp.sarif"
+/sourceDependencies "D:/School Stuff/Notes and Work For Classes/New Neon Steel/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/PerModuleInline.gen.cpp.dep.json"
+/d2ssa-cfg-question-
 /Zc:inline
 /nologo
 /Oi

@@ -6,10 +6,10 @@
 /NAME:"UnrealEditor-NeonSteel.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.obj"
-"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/Module.NeonSteel.gen.cpp.obj"
-"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/NeonSteel.cpp.obj"
-"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/VHealthComponent.cpp.obj"
-"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/PerModuleInline.gen.cpp.obj"
-"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/Default.rc2.res"
-/OUT:"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/UnrealEditor-NeonSteel.lib"
+"D:/School Stuff/Notes and Work For Classes/New Neon Steel/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"D:/School Stuff/Notes and Work For Classes/New Neon Steel/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/Module.NeonSteel.gen.cpp.obj"
+"D:/School Stuff/Notes and Work For Classes/New Neon Steel/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/NeonSteel.cpp.obj"
+"D:/School Stuff/Notes and Work For Classes/New Neon Steel/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/VHealthComponent.cpp.obj"
+"D:/School Stuff/Notes and Work For Classes/New Neon Steel/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/PerModuleInline.gen.cpp.obj"
+"D:/School Stuff/Notes and Work For Classes/New Neon Steel/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/Default.rc2.res"
+/OUT:"D:/School Stuff/Notes and Work For Classes/New Neon Steel/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/UnrealEditor-NeonSteel.lib"
