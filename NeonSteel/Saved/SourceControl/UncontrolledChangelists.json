@@ -13,6 +13,21 @@
 				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/guns/MilitaryWeapons/Saved/AutoScreenshot.uasset",
 				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/guns/MilitaryWeapons/MilitaryWeapons/Saved/Autosaves/PackageRestoreData.uasset",
 				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/guns/MilitaryWeapons/Saved/Autosaves/PackageRestoreData.uasset",
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/MilitaryWeapSilver/Weapons/Pistals_A_StaticMesh.uasset",
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/_Project/Props/Weapons/Enum_WeaponName.uasset",
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/_Project/Props/Weapons/Enum_FireMode.uasset",
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/_Project/Props/Weapons/Enum_WeaponType.uasset",
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/_Project/Props/Pickups/BP_PickUpMaster.uasset",
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/_Project/Props/Pickups/BP_WeaponPickup.uasset",
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/_Project/Interfaces/BPI_Interact.uasset",
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/_Project/Props/Pickups/BP_Pistols_A_Pickup.uasset",
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/Input/Actions/IA_Interact.uasset",
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/Input/IMC_Default.uasset",
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/_Project/Props/Weapons/BP_WeaponMaster.uasset",
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/_Project/Props/Weapons/BP_Pistols_A.uasset",
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset",
 				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/ThirdPerson/Brandon.umap"
 			]
 		}
