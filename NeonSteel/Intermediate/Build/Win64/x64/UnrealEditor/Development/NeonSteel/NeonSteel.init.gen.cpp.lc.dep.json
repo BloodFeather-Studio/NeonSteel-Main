@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\tfs unreal projects\\neonsteel-main\\neonsteel\\intermediate\\build\\win64\\unrealeditor\\inc\\neonsteel\\uht\\neonsteel.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\tfs unreal projects\\neonsteel-main\\neonsteel\\intermediate\\build\\win64\\x64\\neonsteeleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\tfs unreal projects\\neonsteel-main\\neonsteel\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\neonsteel\\definitions.neonsteel.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

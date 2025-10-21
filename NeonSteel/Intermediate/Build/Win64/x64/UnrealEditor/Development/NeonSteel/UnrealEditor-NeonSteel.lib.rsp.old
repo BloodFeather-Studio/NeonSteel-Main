@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-NeonSteel.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/TFS Unreal Projects/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"D:/TFS Unreal Projects/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/MechTestMode.gen.cpp.obj"
+"D:/TFS Unreal Projects/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/NeonSteel.init.gen.cpp.obj"
+"D:/TFS Unreal Projects/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/PlayerMech.gen.cpp.obj"
+"D:/TFS Unreal Projects/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/VHealthComponent.gen.cpp.obj"
+"D:/TFS Unreal Projects/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/NeonSteel.cpp.obj"
+"D:/TFS Unreal Projects/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/VHealthComponent.cpp.obj"
+"D:/TFS Unreal Projects/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/MechTestMode.cpp.obj"
+"D:/TFS Unreal Projects/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/PlayerMech.cpp.obj"
+"D:/TFS Unreal Projects/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/PerModuleInline.gen.cpp.obj"
+"D:/TFS Unreal Projects/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/Default.rc2.res"
+/OUT:"D:/TFS Unreal Projects/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/UnrealEditor-NeonSteel.lib"
