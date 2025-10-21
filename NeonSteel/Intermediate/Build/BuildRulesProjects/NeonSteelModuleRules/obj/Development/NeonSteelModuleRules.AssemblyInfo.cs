@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NeonSteelModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9228048a01a01e0bad014fc53066d2190413472f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0be6efc981d7c4a21b4f02c4184376485c20a9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("NeonSteelModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NeonSteelModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -99,14 +99,14 @@ AVHealthComponent::~AVHealthComponent() {}
 // ********** End Class AVHealthComponent **********************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_School_Stuff_Notes_and_Work_For_Classes_New_Neon_Steel_NeonSteel_Main_NeonSteel_Source_NeonSteel_Public_VHealthComponent_h__Script_NeonSteel_Statics
+struct Z_CompiledInDeferFile_FID_Users_Henrique_Documents_HNQ_Docs_VGDD_NeonSteel_Main_NeonSteel_Source_NeonSteel_Public_VHealthComponent_h__Script_NeonSteel_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_AVHealthComponent, AVHealthComponent::StaticClass, TEXT("AVHealthComponent"), &Z_Registration_Info_UClass_AVHealthComponent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AVHealthComponent), 1595531745U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_School_Stuff_Notes_and_Work_For_Classes_New_Neon_Steel_NeonSteel_Main_NeonSteel_Source_NeonSteel_Public_VHealthComponent_h__Script_NeonSteel_1305278371(TEXT("/Script/NeonSteel"),
-	Z_CompiledInDeferFile_FID_School_Stuff_Notes_and_Work_For_Classes_New_Neon_Steel_NeonSteel_Main_NeonSteel_Source_NeonSteel_Public_VHealthComponent_h__Script_NeonSteel_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_School_Stuff_Notes_and_Work_For_Classes_New_Neon_Steel_NeonSteel_Main_NeonSteel_Source_NeonSteel_Public_VHealthComponent_h__Script_NeonSteel_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Henrique_Documents_HNQ_Docs_VGDD_NeonSteel_Main_NeonSteel_Source_NeonSteel_Public_VHealthComponent_h__Script_NeonSteel_1305278371(TEXT("/Script/NeonSteel"),
+	Z_CompiledInDeferFile_FID_Users_Henrique_Documents_HNQ_Docs_VGDD_NeonSteel_Main_NeonSteel_Source_NeonSteel_Public_VHealthComponent_h__Script_NeonSteel_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Henrique_Documents_HNQ_Docs_VGDD_NeonSteel_Main_NeonSteel_Source_NeonSteel_Public_VHealthComponent_h__Script_NeonSteel_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************
