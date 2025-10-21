@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\tfs unreal projects\\neonsteel-main\\neonsteel\\intermediate\\build\\win64\\unrealeditor\\inc\\neonsteel\\uht\\playermech.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\tfs unreal projects\\neonsteel-main\\neonsteel\\intermediate\\build\\win64\\x64\\neonsteeleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\tfs unreal projects\\neonsteel-main\\neonsteel\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\neonsteel\\definitions.neonsteel.h",
+            "d:\\tfs unreal projects\\neonsteel-main\\neonsteel\\source\\neonsteel\\public\\playermech.h",
+            "c:\\unrealengine\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\unrealengine\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\unrealengine\\ue_5.6\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
+            "c:\\unrealengine\\ue_5.6\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\unrealengine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\unrealengine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\unrealengine\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\unrealengine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\unrealengine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "d:\\tfs unreal projects\\neonsteel-main\\neonsteel\\intermediate\\build\\win64\\unrealeditor\\inc\\neonsteel\\uht\\playermech.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
