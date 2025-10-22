@@ -1,10 +1,10 @@
 {
 	"SourceFiles": [
-		"D:\\TFS\\Capstone\\Main\\NeonSteel-Main\\NeonSteel\\Source\\NeonSteel\\NeonSteel.Build.cs",
-		"D:\\TFS\\Capstone\\Main\\NeonSteel-Main\\NeonSteel\\Plugins\\VisualStudioTools\\Source\\VisualStudioBlueprintDebuggerHelper\\VisualStudioBlueprintDebuggerHelper.Build.cs",
-		"D:\\TFS\\Capstone\\Main\\NeonSteel-Main\\NeonSteel\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
-		"D:\\TFS\\Capstone\\Main\\NeonSteel-Main\\NeonSteel\\Source\\NeonSteel.Target.cs",
-		"D:\\TFS\\Capstone\\Main\\NeonSteel-Main\\NeonSteel\\Source\\NeonSteelEditor.Target.cs"
+		"C:\\Users\\ethan\\Documents\\Unreal Projects\\NeonSteel-Main\\NeonSteel\\Source\\NeonSteel\\NeonSteel.Build.cs",
+		"C:\\Users\\ethan\\Documents\\Unreal Projects\\NeonSteel-Main\\NeonSteel\\Plugins\\VisualStudioTools\\Source\\VisualStudioBlueprintDebuggerHelper\\VisualStudioBlueprintDebuggerHelper.Build.cs",
+		"C:\\Users\\ethan\\Documents\\Unreal Projects\\NeonSteel-Main\\NeonSteel\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
+		"C:\\Users\\ethan\\Documents\\Unreal Projects\\NeonSteel-Main\\NeonSteel\\Source\\NeonSteel.Target.cs",
+		"C:\\Users\\ethan\\Documents\\Unreal Projects\\NeonSteel-Main\\NeonSteel\\Source\\NeonSteelEditor.Target.cs"
 	],
 	"EngineVersion": "5.6.1"
 }
