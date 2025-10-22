@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.NeonSteel.gen.cpp.obj": [
+			"NeonSteel.init.gen.cpp.obj",
+			"VHealthComponent.gen.cpp.obj"
+		]
+	}
+}
