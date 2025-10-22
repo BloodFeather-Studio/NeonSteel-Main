@@ -1,12 +1,12 @@
-"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/Module.NeonSteel.gen.cpp"
-@"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/NeonSteel.Shared.rsp"
-/FI"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h"
-/FI"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/Definitions.NeonSteel.h"
-/Yu"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h"
-/Fp"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.pch"
-/Fo"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/Module.NeonSteel.gen.cpp.obj"
-/experimental:log "C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/Module.NeonSteel.gen.cpp.sarif"
-/sourceDependencies "C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/Module.NeonSteel.gen.cpp.dep.json"
+"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/Module.NeonSteel.gen.cpp"
+@"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/NeonSteel.Shared.rsp"
+/FI"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h"
+/FI"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/Definitions.NeonSteel.h"
+/Yu"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h"
+/Fp"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.pch"
+/Fo"C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/Module.NeonSteel.gen.cpp.obj"
+/experimental:log "C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/Module.NeonSteel.gen.cpp.sarif"
+/sourceDependencies "C:/Users/Henrique/Documents/HNQ Docs/VGDD/NeonSteel-Main/NeonSteel/Intermediate/Build/Win64/x64/UnrealEditor/Development/NeonSteel/Module.NeonSteel.gen.cpp.dep.json"
 /Zc:inline
 /nologo
 /Oi
