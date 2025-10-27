@@ -11,7 +11,9 @@
     <None Include="..\..\Source\NeonSteelEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.editorconfig" />
     <None Include="..\..\.vsconfig" />
+    <None Include="..\..\shadertoolsconfig.json" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -141,12 +143,30 @@
     <Filter Include="Source\NeonSteel\Private">
       <UniqueIdentifier>{0C398C7C-4747-39ED-8579-E79E4F5C160C}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\NeonSteel\Private\MechTestMode.cpp">
+      <Filter>Source\NeonSteel\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NeonSteel\Private\PilotCharacter.cpp">
+      <Filter>Source\NeonSteel\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NeonSteel\Private\PlayerMech.cpp">
+      <Filter>Source\NeonSteel\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\NeonSteel\Private\VHealthComponent.cpp">
       <Filter>Source\NeonSteel\Private</Filter>
     </ClCompile>
     <Filter Include="Source\NeonSteel\Public">
       <UniqueIdentifier>{77783AE0-E77D-31F6-BF2F-520B884311BF}</UniqueIdentifier>
     </Filter>
+    <ClInclude Include="..\..\Source\NeonSteel\Public\MechTestMode.h">
+      <Filter>Source\NeonSteel\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\NeonSteel\Public\PilotCharacter.h">
+      <Filter>Source\NeonSteel\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\NeonSteel\Public\PlayerMech.h">
+      <Filter>Source\NeonSteel\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\NeonSteel\Public\VHealthComponent.h">
       <Filter>Source\NeonSteel\Public</Filter>
     </ClInclude>
