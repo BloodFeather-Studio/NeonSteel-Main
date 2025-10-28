@@ -1,0 +1,26 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\tfs\\capstone\\main\\neonsteel-main\\neonsteel\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\neonsteel\\module.neonsteel.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\tfs\\capstone\\main\\neonsteel-main\\neonsteel\\intermediate\\build\\win64\\x64\\neonsteeleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\tfs\\capstone\\main\\neonsteel-main\\neonsteel\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\neonsteel\\definitions.neonsteel.h",
+            "d:\\tfs\\capstone\\main\\neonsteel-main\\neonsteel\\intermediate\\build\\win64\\unrealeditor\\inc\\neonsteel\\uht\\neonsteel.init.gen.cpp",
+            "d:\\tfs\\capstone\\main\\neonsteel-main\\neonsteel\\intermediate\\build\\win64\\unrealeditor\\inc\\neonsteel\\uht\\vhealthcomponent.gen.cpp",
+            "d:\\tfs\\capstone\\main\\neonsteel-main\\neonsteel\\source\\neonsteel\\public\\vhealthcomponent.h",
+            "d:\\epic\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\epic\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\epic\\epic games\\ue_5.6\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
+            "d:\\epic\\epic games\\ue_5.6\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "d:\\epic\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "d:\\epic\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "d:\\epic\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\epic\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "d:\\epic\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "d:\\tfs\\capstone\\main\\neonsteel-main\\neonsteel\\intermediate\\build\\win64\\unrealeditor\\inc\\neonsteel\\uht\\vhealthcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
