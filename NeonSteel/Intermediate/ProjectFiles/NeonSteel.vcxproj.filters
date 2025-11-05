@@ -12,22 +12,23 @@
       <Filter>Source</Filter>
     </None>
     <None Include="..\..\.vsconfig" />
+    <None Include="..\..\NU_Solo.uproject" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
-    <None Include="..\..\Config\DefaultEditor.ini">
-      <Filter>Config</Filter>
-    </None>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
       <Filter>Config</Filter>
     </None>
-    <None Include="..\..\Config\DefaultEngine.ini">
+    <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
     </None>
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
-    <None Include="..\..\Config\DefaultInput.ini">
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
       <Filter>Config</Filter>
     </None>
     <Filter Include="Plugins">
@@ -87,6 +88,18 @@
     <ClInclude Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\Private\FSmartBSTR.h">
       <Filter>Plugins\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\Private\VSServerCommandlet.cpp">
+      <Filter>Plugins\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\Private\VSServerCommandlet.h">
+      <Filter>Plugins\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\Private\VSTestAdapterCommandlet.cpp">
+      <Filter>Plugins\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\Private\VSTestAdapterCommandlet.h">
+      <Filter>Plugins\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\Private\VisualStudioTools.cpp">
       <Filter>Plugins\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
     </ClCompile>
@@ -108,18 +121,6 @@
     <ClInclude Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\Private\VisualStudioToolsCommandletBase.h">
       <Filter>Plugins\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\Private\VSServerCommandlet.cpp">
-      <Filter>Plugins\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\Private\VSServerCommandlet.h">
-      <Filter>Plugins\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\Private\VSTestAdapterCommandlet.cpp">
-      <Filter>Plugins\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Plugins\VisualStudioTools\Source\VisualStudioTools\Private\VSTestAdapterCommandlet.h">
-      <Filter>Plugins\VisualStudioTools\Source\VisualStudioTools\Private</Filter>
-    </ClInclude>
     <Filter Include="Plugins\VisualStudioTools\Source\VisualStudioTools\Public">
       <UniqueIdentifier>{333EB5AC-492F-3ED7-9C7F-15701C1818EC}</UniqueIdentifier>
     </Filter>
@@ -129,15 +130,15 @@
     <Filter Include="Source\NeonSteel">
       <UniqueIdentifier>{5D58E1E7-28D9-3E78-A537-5E199EF0BDEF}</UniqueIdentifier>
     </Filter>
-    <None Include="..\..\Source\NeonSteel\NeonSteel.Build.cs">
-      <Filter>Source\NeonSteel</Filter>
-    </None>
     <ClCompile Include="..\..\Source\NeonSteel\NeonSteel.cpp">
       <Filter>Source\NeonSteel</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\NeonSteel\NeonSteel.h">
       <Filter>Source\NeonSteel</Filter>
     </ClInclude>
+    <None Include="..\..\Source\NeonSteel\NeonSteel.Build.cs">
+      <Filter>Source\NeonSteel</Filter>
+    </None>
     <Filter Include="Source\NeonSteel\Private">
       <UniqueIdentifier>{0C398C7C-4747-39ED-8579-E79E4F5C160C}</UniqueIdentifier>
     </Filter>
