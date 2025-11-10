@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/School Stuff/Notes and Work For Classes/New Neon Steel/NeonSteel-Main/NeonSteel/Content/UI/PauseMenu/BPW_PauseMenu.uasset",
+				"D:/School Stuff/Notes and Work For Classes/New Neon Steel/NeonSteel-Main/NeonSteel/Content/UI/MechHUD/Template/MechHUD_TestController.uasset",
+				"D:/School Stuff/Notes and Work For Classes/New Neon Steel/NeonSteel-Main/NeonSteel/Content/UI/MechHUD/BP_MechHUD.uasset",
 				"C:/Users/pavly/OneDrive/Desktop/Capstone 2026/NeonSteel-Main/NeonSteel/Content/Blueprints/SpikesObject.uasset",
 				"C:/Users/pavly/OneDrive/Desktop/Capstone 2026/NeonSteel-Main/NeonSteel/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/pavly/OneDrive/Desktop/Capstone 2026/NeonSteel-Main/NeonSteel/Content/Blueprints/BPI_Refs.uasset",
