@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class AVHealthComponent ********************************************************
 NEONSTEEL_API UClass* Z_Construct_UClass_AVHealthComponent_NoRegister();
 
-#define FID_Users_Henrique_Documents_HNQ_Docs_VGDD_NeonSteel_Main_NeonSteel_Source_NeonSteel_Public_VHealthComponent_h_12_INCLASS_NO_PURE_DECLS \
+#define FID_TFS_Capstone_Main_NeonSteel_Main_NeonSteel_Source_NeonSteel_Public_VHealthComponent_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAVHealthComponent(); \
 	friend struct Z_Construct_UClass_AVHealthComponent_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(AVHealthComponent)
 
 
-#define FID_Users_Henrique_Documents_HNQ_Docs_VGDD_NeonSteel_Main_NeonSteel_Source_NeonSteel_Public_VHealthComponent_h_12_ENHANCED_CONSTRUCTORS \
+#define FID_TFS_Capstone_Main_NeonSteel_Main_NeonSteel_Source_NeonSteel_Public_VHealthComponent_h_12_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	AVHealthComponent(AVHealthComponent&&) = delete; \
 	AVHealthComponent(const AVHealthComponent&) = delete; \
@@ -40,12 +40,12 @@ public: \
 	NO_API virtual ~AVHealthComponent();
 
 
-#define FID_Users_Henrique_Documents_HNQ_Docs_VGDD_NeonSteel_Main_NeonSteel_Source_NeonSteel_Public_VHealthComponent_h_9_PROLOG
-#define FID_Users_Henrique_Documents_HNQ_Docs_VGDD_NeonSteel_Main_NeonSteel_Source_NeonSteel_Public_VHealthComponent_h_12_GENERATED_BODY \
+#define FID_TFS_Capstone_Main_NeonSteel_Main_NeonSteel_Source_NeonSteel_Public_VHealthComponent_h_9_PROLOG
+#define FID_TFS_Capstone_Main_NeonSteel_Main_NeonSteel_Source_NeonSteel_Public_VHealthComponent_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_Henrique_Documents_HNQ_Docs_VGDD_NeonSteel_Main_NeonSteel_Source_NeonSteel_Public_VHealthComponent_h_12_INCLASS_NO_PURE_DECLS \
-	FID_Users_Henrique_Documents_HNQ_Docs_VGDD_NeonSteel_Main_NeonSteel_Source_NeonSteel_Public_VHealthComponent_h_12_ENHANCED_CONSTRUCTORS \
+	FID_TFS_Capstone_Main_NeonSteel_Main_NeonSteel_Source_NeonSteel_Public_VHealthComponent_h_12_INCLASS_NO_PURE_DECLS \
+	FID_TFS_Capstone_Main_NeonSteel_Main_NeonSteel_Source_NeonSteel_Public_VHealthComponent_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -55,6 +55,6 @@ class AVHealthComponent;
 // ********** End Class AVHealthComponent **********************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_Henrique_Documents_HNQ_Docs_VGDD_NeonSteel_Main_NeonSteel_Source_NeonSteel_Public_VHealthComponent_h
+#define CURRENT_FILE_ID FID_TFS_Capstone_Main_NeonSteel_Main_NeonSteel_Source_NeonSteel_Public_VHealthComponent_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
