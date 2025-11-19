@@ -513,6 +513,7 @@
     <None Include="..\..\Source\NeonSteel.Target.cs"/>
     <None Include="..\..\Source\NeonSteelEditor.Target.cs"/>
     <None Include="..\..\.vsconfig"/>
+    <None Include="..\..\NU_Solo.uproject"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
