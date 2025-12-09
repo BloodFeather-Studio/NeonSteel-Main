@@ -5,8 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/School Stuff/Notes and Work For Classes/New Neon Steel/NeonSteel-Main/NeonSteel/Content/UI/PauseMenu/BPW_SettingsMenu.uasset",
-				"D:/School Stuff/Notes and Work For Classes/New Neon Steel/NeonSteel-Main/NeonSteel/Content/UI/PauseMenu/BPW_PauseMenu.uasset",
 				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/P5/AJLNDP6O1NLLP9ZTY648VK.uasset",
 				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/ThirdPerson/Lvl_ThirdPerson.umap",
 				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/Levels/Brandon.umap",
@@ -165,6 +163,14 @@
 				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/AnimStarterPack/UE6/UE6_Reload_Pistol_Montage.uasset",
 				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/ThirdPerson/Blueprints/BP_BrandonsThirdPersonCharacter1.uasset",
 				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/_Main/Level/MainLevel.umap",
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/_Project/Props/Projectiles/BP_ProjectileMaster_Child.uasset",
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/_Project/Interfaces/BPI_WeaponPickUps.uasset",
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/_Project/Hud/WBP_WeaponHuds.uasset",
+				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/_Project/Interfaces/BPI_WeaponPickUps.uasset",
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/_Project/Props/Projectiles/BP_ProjectileMasters.uasset",
+				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/_Project/Hud/WBP_WeaponHuds.uasset",
+				"D:/School Stuff/Notes and Work For Classes/New Neon Steel/NeonSteel-Main/NeonSteel/Content/UI/PauseMenu/BPW_SettingsMenu.uasset",
+				"D:/School Stuff/Notes and Work For Classes/New Neon Steel/NeonSteel-Main/NeonSteel/Content/UI/PauseMenu/BPW_PauseMenu.uasset",
 				"D:/Unreal Projects/Neon Steel/NeonSteel-Main/NeonSteel/Content/jakez/Blueprints/BP_ProjectilePlayer.uasset",
 				"D:/Unreal Projects/Neon Steel/NeonSteel-Main/NeonSteel/Content/_Project/Props/Projectiles/BP_ProjectileMaster.uasset",
 				"D:/Unreal Projects/Neon Steel/NeonSteel-Main/NeonSteel/Content/jakez/_GENERATED/jakez/GC/Box_673BD556.uasset",
@@ -289,7 +295,8 @@
 				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/MetaHumans/Aoi/FemaleHair/Hair/Hair_S_UpdoBuns_CardsMesh_Group0_LOD2.uasset",
 				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/MetaHumans/Aoi/FemaleHair/Hair/Hair_S_UpdoBuns_CardsMesh_Group0_LOD1.uasset",
 				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/MetaHumans/Aoi/FemaleHair/Hair/Hair_S_UpdoBuns_CardsMesh_Group0_LOD0.uasset",
-				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/ThirdPerson/Brandon.umap"
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/ThirdPerson/Brandon.umap",
+				"D:/TFS/Term 4/GraphicsProgramming/Assignment/VGP201-GraphicsProgramming/VGP201-GraphicsProgramming/Myfps/Content/_Project/Interfaces/BPI_WeaponInterface.uasset"
 			]
 		}
 	]
