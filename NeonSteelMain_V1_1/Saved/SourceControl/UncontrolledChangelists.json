@@ -1,0 +1,41 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteelMain_V1_1/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/BP_SideScrollingPlayerController.uasset",
+				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/BP_SideScrollingGameMode.uasset",
+				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Variant_SideScroller/Anims/ABP_Manny_SideScroller.uasset",
+				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/BP_SideScrollingCharacterMain.uasset",
+				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/BP_SideScrollingCharacter.uasset",
+				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Characters/Mannequins/Anims/Pistol/Aim/AO_Pistol.uasset",
+				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Variant_SideScroller/E_WeaponType.uasset",
+				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Characters/Mannequins/Anims/Rifle/AIM/AO_Rifle.uasset",
+				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/BP_SideScrollAiming.uasset",
+				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Input/Actions/IA_WeaponSwitch.uasset",
+				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Variant_SideScroller/Input/IMC_SideScroller.uasset",
+				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Input/Actions/IA_Aim.uasset",
+				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Characters/Mannequins/Anims/Pistol/M_PISTOL_MASTER.uasset",
+				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Characters/Mannequins/Anims/Pistol/M_PISTOL_NOZZLE.uasset",
+				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Characters/Mannequins/Anims/Pistol/M_PISTOL_PLASTICS.uasset",
+				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Characters/Mannequins/Anims/Pistol/M_PISTOL_RUSTEDMETAL.uasset",
+				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Characters/Mannequins/Anims/Pistol/M_PISTOL_SCREENS.uasset",
+				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Characters/Mannequins/Anims/Pistol/M_PISTOL_SHINYMETAL.uasset",
+				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Characters/Mannequins/Anims/Pistol/Pistol_StaticMesh.uasset",
+				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Characters/Mannequins/Anims/Pistol/BP_Bullet.uasset",
+				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Characters/Mannequins/Anims/CAPSTONE_GUN_low.uasset",
+				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset",
+				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Characters/Mannequins/Anims/M_PISTOL_MASTER_GRIP.uasset",
+				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Characters/Mannequins/Anims/M_PISTOL_MASTER_NOZZLE.uasset",
+				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Characters/Mannequins/Anims/M_PISTOL_MASTER_PLASTICS.uasset",
+				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Characters/Mannequins/Anims/M_PISTOL_MASTER_RUSTEDMETAL.uasset",
+				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Characters/Mannequins/Anims/M_PISTOL_MASTER_SCREENS.uasset",
+				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Characters/Mannequins/Anims/M_PISTOL_MASTER_SHINYMETAL.uasset"
+			]
+		}
+	]
+}
