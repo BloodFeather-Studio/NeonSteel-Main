@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteel/Content/Arian/MainMenu/Lvl/MainMenu.umap",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteel/Content/Arian/MainMenu/BluePrints/WBP_MainMenu.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteel/Content/Arian/MainMenu/BluePrints/PC_MainMenu.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteel/Content/Arian/MainMenu/BluePrints/GM_MainMenu.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteel/Content/Arian/MainMenu/Lvl/1650757195826.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteel/Content/Arian/Settings/WBP_Settings.uasset",
 				"D:/School Stuff/Notes and Work For Classes/New Neon Steel/NeonSteel-Main/NeonSteel/Content/UI/PauseMenu/BPW_SettingsMenu.uasset",
 				"D:/School Stuff/Notes and Work For Classes/New Neon Steel/NeonSteel-Main/NeonSteel/Content/UI/PauseMenu/BPW_PauseMenu.uasset",
 				"D:/School Stuff/Notes and Work For Classes/New Neon Steel/NeonSteel-Main/NeonSteel/Content/UI/MechHUD/MechHUD.uasset",
