@@ -6,6 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteelMain_V1_1/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/BP_SideScrollingCharacter.uasset",
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Input/IMC_SideScroller.uasset",
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Input/BPI_TouchInterface_SideScrolling.uasset",
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteelMain_V1_1/Content/Ethan/Anims/AM_ComboAttack.uasset",
 				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/BP_SideScrollingPlayerController.uasset",
 				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/BP_SideScrollingGameMode.uasset",
 				"D:/TFS/Capstone/NeonSteal-Tokyo_Uprising/NeonSteelMain_V1_1/Content/Variant_SideScroller/Anims/ABP_Manny_SideScroller.uasset",
