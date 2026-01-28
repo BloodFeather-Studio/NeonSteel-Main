@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Projects/SwordCombat/Content/Variant_SideScroller/Anims/ABP_Manny_SideScroller.uasset",
+				"D:/Unreal Projects/SwordCombat/Content/Variant_SideScroller/Sword/Sword_Skeleton.uasset",
+				"D:/Unreal Projects/SwordCombat/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"D:/Unreal Projects/SwordCombat/Content/Variant_SideScroller/Blueprints/BP_SideScrollingCharacter.uasset",
+				"D:/Unreal Projects/SwordCombat/Content/Variant_SideScroller/Blueprints/BP_SwordEvent.uasset",
+				"D:/Unreal Projects/SwordCombat/Content/Variant_SideScroller/Anims/SwordSlash_Montage.uasset",
+				"D:/Unreal Projects/SwordCombat/Content/Variant_SideScroller/Anims/Death_Montage.uasset",
+				"D:/Unreal Projects/SwordCombat/Content/Variant_SideScroller/Blueprints/AI/BP_Dummy.uasset",
+				"D:/Unreal Projects/SwordCombat/Content/Variant_SideScroller/Anims/SwordSlash.uasset",
+				"D:/Unreal Projects/SwordCombat/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/D/NV/2L32MXVGF90STF84GWDJZ8.uasset",
+				"D:/Unreal Projects/SwordCombat/Content/Variant_SideScroller/Anims/Death.uasset",
+				"D:/Unreal Projects/SwordCombat/Content/Variant_SideScroller/Anims/HitReact.uasset",
+				"D:/Unreal Projects/SwordCombat/Content/Variant_SideScroller/Anims/HitReact_Montage.uasset",
+				"D:/Unreal Projects/SwordCombat/Content/Variant_SideScroller/Sword/Sword.uasset",
+				"D:/Unreal Projects/SwordCombat/Content/Variant_SideScroller/Blueprints/BP_Notify_CheckCombo.uasset",
+				"D:/Unreal Projects/SwordCombat/Content/Variant_SideScroller/Blueprints/BP_Notify_ResetCombo.uasset",
+				"D:/Unreal Projects/SwordCombat/Content/Variant_SideScroller/Blueprints/SwordBasic/BP_Notify_CheckCombo.uasset",
+				"D:/Unreal Projects/SwordCombat/Content/Variant_SideScroller/Blueprints/SwordBasic/BP_Notify_ResetCombo.uasset",
+				"D:/Unreal Projects/SwordCombat/Content/Variant_SideScroller/Blueprints/SwordBasic/BP_SwordEvent.uasset",
+				"D:/Unreal Projects/SwordCombat/Content/Variant_SideScroller/Blueprints/Ultimates/NeonStrike/BP_NeonStrike_Projectile.uasset",
+				"D:/Unreal Projects/SwordCombat/Content/Variant_SideScroller/Anims/NeonStrikeSample_Montage.uasset",
+				"D:/Unreal Projects/SwordCombat/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/D/2C/B40OZN4CXWEZT2N8JKJH1O.uasset",
+				"D:/Unreal Projects/SwordCombat/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/5/LQ/LTQ3BIFZR34DZ9SH7OYYLX.uasset",
+				"D:/Unreal Projects/SwordCombat/Content/Variant_SideScroller/Blueprints/Ultimates/NeonStrike/BP_Notify_NeonStrike.uasset",
+				"D:/Unreal Projects/SwordCombat/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Unreal Projects/SwordCombat/Content/StarterContent/Particles/P_Sparks.uasset",
+				"D:/Unreal Projects/SwordCombat/Content/Characters/Mannequins/Anims/Sword/SwordSlash_Montage.uasset"
+			]
+		}
+	]
+}
