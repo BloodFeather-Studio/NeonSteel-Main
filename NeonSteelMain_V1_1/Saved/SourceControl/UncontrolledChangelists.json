@@ -7,6 +7,8 @@
 			"files": [
 				"C:/Neon Steel/Github/NeonSteel-Main/NeonSteelMain_V1_1/Content/_Project/_Main/Map/Materials/Barricades.uasset",
 				"C:/Neon Steel/Github/NeonSteel-Main/NeonSteelMain_V1_1/Content/_Project/_Main/Map/MainMap.umap",
+				"C:/Neon Steel/Github/NeonSteel-Main/NeonSteelMain_V1_1/Content/_Project/_Main/Map/Materials/Collectible.uasset",
+				"C:/Neon Steel/Github/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/BP_SideScrollingCameraManager.uasset",
 				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset",
 				"C:/Users/ryanr/Documents/GitHub/NeonSteel-Main/NeonSteelMain_V1_1/Content/_Project/_Main/Map/MainMap.umap",
 				"C:/Users/ryanr/Documents/GitHub/NeonSteel-Main/NeonSteelMain_V1_1/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
