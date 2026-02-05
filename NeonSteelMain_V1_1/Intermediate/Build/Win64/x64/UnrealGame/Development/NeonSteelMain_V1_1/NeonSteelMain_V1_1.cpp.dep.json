@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ethan\\documents\\unreal projects\\neonsteel-main\\neonsteelmain_v1_1\\intermediate\\source\\neonsteelmain_v1_1.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ethan\\documents\\unreal projects\\neonsteel-main\\neonsteelmain_v1_1\\intermediate\\build\\win64\\x64\\neonsteelmain_v1_1\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ethan\\documents\\unreal projects\\neonsteel-main\\neonsteelmain_v1_1\\intermediate\\build\\win64\\x64\\unrealgame\\development\\neonsteelmain_v1_1\\definitions.neonsteelmain_v1_1.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
