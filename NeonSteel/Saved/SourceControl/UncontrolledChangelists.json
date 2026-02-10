@@ -34,6 +34,17 @@
 				"C:/Users/pavly/OneDrive/Desktop/Capstone 2026/NeonSteel-Main/NeonSteel/Content/PavlyBlueprints/BP_Pickup_Master.uasset",
 				"C:/Users/pavly/OneDrive/Desktop/Capstone 2026/NeonSteel-Main/NeonSteel/Content/PavlyBlueprints/Pickup_Master_Material.uasset",
 				"C:/Users/pavly/OneDrive/Desktop/Capstone 2026/NeonSteel-Main/NeonSteel/Content/PavlyBlueprints/BP_Pickup_Child.uasset",
+<<<<<<< Updated upstream
+=======
+				"C:/Users/pavly/OneDrive/Desktop/Capstone 2026/NeonSteel-Main/NeonSteel/Content/PavlyBlueprints/Enums/E_PickupType.uasset",
+				"C:/Users/pavly/OneDrive/Desktop/Capstone 2026/NeonSteel-Main/NeonSteel/Content/PavlyBlueprints/Structs/ST_PickupData.uasset",
+				"C:/Users/pavly/OneDrive/Desktop/Capstone 2026/NeonSteel-Main/NeonSteel/Content/PavlyBlueprints/Interface/BPI_PickupReciever.uasset",
+				"C:/Users/pavly/OneDrive/Desktop/Capstone 2026/NeonSteel-Main/NeonSteel/Content/PavlyBlueprints/Pickup/BP_PickupMaster.uasset",
+				"C:/Users/pavly/OneDrive/Desktop/Capstone 2026/NeonSteel-Main/NeonSteel/Content/PavlyBlueprints/Pickup/BP_PickUpNeon.uasset",
+				"C:/Users/pavly/OneDrive/Desktop/Capstone 2026/NeonSteel-Main/NeonSteel/Content/PavlyBlueprints/Controls/IMC_Default.uasset",
+				"C:/Users/pavly/OneDrive/Desktop/Capstone 2026/NeonSteel-Main/NeonSteel/Content/PavlyBlueprints/Controls/Actions/IA_Dash.uasset",
+				"C:/Users/pavly/OneDrive/Desktop/Capstone 2026/NeonSteel-Main/NeonSteel/Content/PavlyBlueprints/Pickup/BP_PickUpHealth.uasset",
+>>>>>>> Stashed changes
 				"C:/Users/pavly/OneDrive/Desktop/Capstone 2026/NeonSteel-Main/NeonSteel/Content/PavlyBlueprints/NewNiagaraSystem.uasset",
 				"C:/Users/pavly/OneDrive/Desktop/Capstone 2026/NeonSteel-Main/NeonSteel/Content/PavlyBlueprints/NeonPickupMaterial.uasset",
 				"C:/Users/pavly/OneDrive/Desktop/Capstone 2026/NeonSteel-Main/NeonSteel/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/UJ/T3TPC09I3WM41LOQZHCEEH.uasset",
