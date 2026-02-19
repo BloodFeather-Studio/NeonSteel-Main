@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\TFS\Capstone\Main\NeonSteel-Main\NeonSteel\Intermediate\PipInstall
+set VIRTUAL_ENV=D:\School Stuff\Notes and Work For Classes\New Neon Steel\NeonSteel-Main\NeonSteel\Intermediate\PipInstall
 
 if not defined PROMPT set PROMPT=$P$G
 

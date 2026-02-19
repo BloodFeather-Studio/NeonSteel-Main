@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\TFS\Capstone\Main\NeonSteel-Main\NeonSteel\Intermediate\PipInstall"
+VIRTUAL_ENV="D:\School Stuff\Notes and Work For Classes\New Neon Steel\NeonSteel-Main\NeonSteel\Intermediate\PipInstall"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
