@@ -1,12 +1,22 @@
 #################################
 # Unreal Engine Generated Files #
 #################################
-/[Bb]uild
-/[Bb]uilds
-/Binaries
-/DerivedDataCache
-/Intermediate
-/Saved
+NeonSteelMain_V1_1/Binaries/
+NeonSteelMain_V1_1/DerivedDataCache/
+NeonSteelMain_V1_1/Intermediate/
+NeonSteelMain_V1_1/Saved/
+
+# Also ignore at root in case some projects live here too
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+*/Binaries/
+*/DerivedDataCache/
+*/Intermediate/
+*/Saved/
+# Optional but common
 
 #################################
 # Visual Studio Generated Files #
@@ -45,11 +55,4 @@
 *.sln.DotSettings
 *.sln.DotSettings.user
 
-#################################
-# Miscellaneous Generated Files #
-#################################
-# ADD AS NEED BE
-NeonSteel/Intermediate/ReimportCache/3688439234.bin
-NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.NonOptimized.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.pch
-NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.obj.rsp
-NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.pch
+

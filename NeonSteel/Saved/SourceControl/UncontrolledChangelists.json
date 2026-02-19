@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"C:/Users/pavly/OneDrive/Desktop/Capstone 2026/NeonSteel-Main/NeonSteel/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/pavly/OneDrive/Desktop/Capstone 2026/NeonSteel-Main/NeonSteel/Content/Blueprints/NewHealthSystemUpdate.uasset",
 				"C:/Users/pavly/OneDrive/Desktop/Capstone 2026/NeonSteel-Main/NeonSteel/Content/Blueprints/SpikesFirstImplementation.uasset",
@@ -309,6 +310,20 @@
 				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/MetaHumans/Aoi/FemaleHair/Hair/Hair_S_UpdoBuns_CardsMesh_Group0_LOD1.uasset",
 				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/MetaHumans/Aoi/FemaleHair/Hair/Hair_S_UpdoBuns_CardsMesh_Group0_LOD0.uasset",
 				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteel/Content/ThirdPerson/Brandon.umap"
+=======
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteel/Content/Arian/Settings/WBP_Settings.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteel/Content/Arian/MainMenu/BluePrints/WBP_MainMenu.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteel/Content/Arian/Settings/WBP_Settings1.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteel/Content/Arian/Settings/WBP_Graphics.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteel/Content/Arian/Settings/WBP_Display.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteel/Content/Arian/Settings/WBP_Audio.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteel/Content/Arian/MainMenu/Lvl/MainMenu.umap",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteel/Content/PavlyBlueprints/HealthBar.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteel/Content/Arian/Settings/WBP_AdvancedGrapics.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteel/Content/Arian/Settings/WBP_Credits.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteel/Content/Arian/Settings/WBP_Accessiblity.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteel/Content/Arian/Settings/WBP_Accessibility.uasset"
+>>>>>>> origin/Dev
 			]
 		}
 	]
