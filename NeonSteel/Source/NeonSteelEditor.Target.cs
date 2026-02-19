@@ -11,7 +11,5 @@ public class NeonSteelEditorTarget : TargetRules
 		DefaultBuildSettings = BuildSettingsVersion.V5;
 
 		ExtraModuleNames.AddRange( new string[] { "NeonSteel" } );
-
-        bWarningsAsErrors = false;
-    }
+	}
 }
