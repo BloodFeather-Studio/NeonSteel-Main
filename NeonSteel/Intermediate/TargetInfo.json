@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "NeonSteel",
+			"Path": "..\\Source\\NeonSteel.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NeonSteelEditor",
+			"Path": "..\\Source\\NeonSteelEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
