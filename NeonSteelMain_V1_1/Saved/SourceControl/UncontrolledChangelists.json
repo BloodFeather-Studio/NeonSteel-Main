@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Arian/Human_HUD/WBP_PlayerHud.uasset",
 				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset",
 				"C:/Users/ryanr/Documents/GitHub/NeonSteel-Main/NeonSteelMain_V1_1/Content/_Project/_Main/Map/MainMap.umap",
 				"C:/Users/ryanr/Documents/GitHub/NeonSteel-Main/NeonSteelMain_V1_1/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
