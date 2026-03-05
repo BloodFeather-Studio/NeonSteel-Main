@@ -6,6 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Arian/Human_HUD/WBP_PlayerHud.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Player/BP_Player.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Arian/Settings/WBP_Graphics.uasset",
 				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset",
 				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
 				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset",
