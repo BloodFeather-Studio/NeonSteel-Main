@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteelMain_V1_1/Content/_Project/_Main/Map/MainMap.umap",
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Player/BP_SideScrollingGameMode.uasset",
 				"C:/Users/ryanr/Documents/CapstoneGit/NeonSteel-Main/NeonSteelMain_V1_1/Content/_Project/_Main/Map/MainMap.umap",
 				"C:/Users/ryanr/Documents/CapstoneGit/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Player/BP_SideScrollingGameMode.uasset",
 				"C:/Users/ryanr/Documents/CapstoneGit/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Player/BP_Player.uasset",
