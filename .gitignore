@@ -1,64 +1,54 @@
 #################################
-# Unreal Engine (generated)
+# Unreal Engine Generated Files #
 #################################
-**/Binaries/
-**/DerivedDataCache/
-**/Intermediate/
-**/Saved/
+NeonSteelMain_V1_1/Binaries/
+NeonSteelMain_V1_1/DerivedDataCache/
+NeonSteelMain_V1_1/Intermediate/
+NeonSteelMain_V1_1/Saved/
 
-# Optional: common UE generated artifacts
-**/Build/                # sometimes contains generated files (keep if you rely on Build scripts)
-*.tmp
-*.bak
-*.old
-*.orig
+# Also ignore at root in case some projects live here too
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
 
-# Logs / crash data
-*.log
-**/Crashes/
-**/CrashReportClient/
+# Optional but common
 
 #################################
-# Visual Studio / VS Code (generated)
+# Visual Studio Generated Files #
 #################################
-.vs/
-.vscode/
-**/.history/
-
-*.VC.db
-*.VC.opendb
-*.sdf
-*.opensdf
-*.opendb
-*.ipch
-
+# Cache Directory
+.vs
+# User Specific Files
+*.rsuser
 *.suo
 *.user
 *.userosscache
-*.rsuser
 *.sln.docstates
+# CPP Cache Files
+*.VC.db
+*.opendb
+*.opensdf
+*.sdf
+# Solution Files
+*.sln
+# VSCode Cache Directory
+.vscode
+# VSCode History Files
+**/.history
+# Ignore Unreal Engine log files
+*.log
 
-#################################
-# JetBrains Rider / IntelliJ (generated)
-#################################
-.idea/
-*.sln.DotSettings.user
+###################################
+# JetBrains Rider Generated Files #
+###################################
+# Cache Directory
+.idea
 
-#################################
-# OS junk
-#################################
-.DS_Store
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-
-#################################
-# (Choose ONE policy) Solution / project files
-#################################
-
-# OPTION A (common for UE teams): ignore generated IDE project files
+# Solution and Project Files
 *.sln
 *.csproj
-*.vcxproj
-*.vcxproj.filters
-*.vcxproj.user
+*.sln.DotSettings
+*.sln.DotSettings.user
+
+
