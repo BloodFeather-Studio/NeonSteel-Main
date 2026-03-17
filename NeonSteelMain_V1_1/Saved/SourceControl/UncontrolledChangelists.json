@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Hazards/Interface/BPI_Hazard_Damage.uasset",
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Hazards/Interface/BPI_Hazard.uasset",
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Hazards/component/BPC_HazardLogic.uasset",
 				"C:/Users/pavly/OneDrive/Desktop/Capstone 2026/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Player/BP_Player.uasset",
 				"C:/Users/pavly/OneDrive/Desktop/Capstone 2026/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Player/BP_PlayerSword.uasset",
 				"D:/Unreal Projects/Neon Steel/NeonSteel-Main/NeonSteelMain_V1_1/Content/Characters/Mannequins/Meshes/SK_Mannequin_Sword.uasset",
