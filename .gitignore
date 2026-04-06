@@ -1,55 +1,64 @@
 #################################
-# Unreal Engine Generated Files #
+# Unreal Engine (generated)
 #################################
-/[Bb]uild
-/[Bb]uilds
-/Binaries
-/DerivedDataCache
-/Intermediate
-/Saved
+**/Binaries/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+
+# Optional: common UE generated artifacts
+**/Build/                # sometimes contains generated files (keep if you rely on Build scripts)
+*.tmp
+*.bak
+*.old
+*.orig
+
+# Logs / crash data
+*.log
+**/Crashes/
+**/CrashReportClient/
 
 #################################
-# Visual Studio Generated Files #
+# Visual Studio / VS Code (generated)
 #################################
-# Cache Directory
-.vs
-# User Specific Files
-*.rsuser
+.vs/
+.vscode/
+**/.history/
+
+*.VC.db
+*.VC.opendb
+*.sdf
+*.opensdf
+*.opendb
+*.ipch
+
 *.suo
 *.user
 *.userosscache
+*.rsuser
 *.sln.docstates
-# CPP Cache Files
-*.VC.db
-*.opendb
-*.opensdf
-*.sdf
-# Solution Files
-*.sln
-# VSCode Cache Directory
-.vscode
-# VSCode History Files
-**/.history
-# Ignore Unreal Engine log files
-*.log
 
-###################################
-# JetBrains Rider Generated Files #
-###################################
-# Cache Directory
-.idea
-
-# Solution and Project Files
-*.sln
-*.csproj
-*.sln.DotSettings
+#################################
+# JetBrains Rider / IntelliJ (generated)
+#################################
+.idea/
 *.sln.DotSettings.user
 
 #################################
-# Miscellaneous Generated Files #
+# OS junk
 #################################
-# ADD AS NEED BE
-NeonSteel/Intermediate/ReimportCache/3688439234.bin
-NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.NonOptimized.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.pch
-NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.obj.rsp
-NeonSteel/Intermediate/Build/Win64/x64/NeonSteelEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.pch
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+#################################
+# (Choose ONE policy) Solution / project files
+#################################
+
+# OPTION A (common for UE teams): ignore generated IDE project files
+*.sln
+*.csproj
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
