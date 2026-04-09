@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Player/BP_Player.uasset",
+				"E:/Unreal/UE_5.6/Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Pavly/Pickups/BP_NeonPickup.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Arian/Human_HUD/WBP_PlayerHud.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Player/BP_SideScrollingGameMode.uasset",
 				"D:/Unreal Projects/Neon Steel/NeonSteel-Main/NeonSteelMain_V1_1/Content/Characters/Mannequins/Meshes/SK_Mannequin_Sword.uasset",
 				"D:/Unreal Projects/Neon Steel/NeonSteel-Main/NeonSteelMain_V1_1/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
 				"D:/Unreal Projects/Neon Steel/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Player/BP_PlayerSword.uasset",
@@ -17,9 +22,7 @@
 				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Enemies/BP_Enemy_Shield.uasset",
 				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/7/JW/477Z141EOPJKCX8ZZ7JHLA.uasset",
 				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/C/1K/2B176T2ILMKQ8MN4ZULE25.uasset",
-				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/A/JA/S69V68Q11ZZFKOC4RMR0QJ.uasset",
-				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Player/BP_Player.uasset",
-				"E:/Unreal/UE_5.6/Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset"
+				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/A/JA/S69V68Q11ZZFKOC4RMR0QJ.uasset"
 			]
 		}
 	]
