@@ -5,6 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Enemies/AI/EnemyShield/BP_EnergyShield.uasset",
+				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Enemies/BP_Enemy_Shield.uasset",
+				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/7/JW/477Z141EOPJKCX8ZZ7JHLA.uasset",
+				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/C/1K/2B176T2ILMKQ8MN4ZULE25.uasset",
+				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/A/JA/S69V68Q11ZZFKOC4RMR0QJ.uasset",
+				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/DamageSystem/Projectiles/BP_EProjectile_Bullet.uasset",
+				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Player/BP_PlayerSword.uasset",
+				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Enemies/BP_Enemy_Ranged.uasset",
+				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/DamageSystem/Projectiles/BP_EProjectile_Bullet1.uasset",
 				"C:/Users/pavly/OneDrive/Desktop/Capstone 2026/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Player/BP_Player.uasset",
 				"C:/Users/pavly/OneDrive/Desktop/Capstone 2026/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Player/BP_PlayerSword.uasset",
 				"C:/Users/pavly/OneDrive/Desktop/Capstone 2026/NeonSteel-Main/NeonSteelMain_V1_1/Content/Pavly/Enums/E_PickupType.uasset",
@@ -23,11 +32,6 @@
 				"D:/Unreal Projects/Neon Steel/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/SwordBasic/BP_Notify_ResetCombo.uasset",
 				"D:/Unreal Projects/Neon Steel/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Input/IMC_SideScroller.uasset",
 				"D:/Unreal Projects/Neon Steel/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Ultimates/NeonStrike/BP_NeonStrike_Projectile.uasset",
-				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Enemies/AI/EnemyShield/BP_EnergyShield.uasset",
-				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Enemies/BP_Enemy_Shield.uasset",
-				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/7/JW/477Z141EOPJKCX8ZZ7JHLA.uasset",
-				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/C/1K/2B176T2ILMKQ8MN4ZULE25.uasset",
-				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/A/JA/S69V68Q11ZZFKOC4RMR0QJ.uasset",
 				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Player/BP_Player.uasset",
 				"E:/Unreal/UE_5.6/Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset"
 			]
