@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Neon Steel/Github/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Hazards/BP_Hazard_Base.uasset",
 				"C:/Neon Steel/Github/NeonSteel-Main/NeonSteelMain_V1_1/Content/_Project/_Main/Map/MainMap.umap",
 				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Enemies/AI/EnemyShield/BP_EnergyShield.uasset",
@@ -36,6 +37,10 @@
 				"D:/Unreal Projects/Neon Steel/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Ultimates/NeonStrike/BP_NeonStrike_Projectile.uasset",
 				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Player/BP_Player.uasset",
 				"E:/Unreal/UE_5.6/Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset"
+=======
+				"C:/Users/Planett/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Raymond/BP_TutorialBoards.uasset",
+				"C:/Users/Planett/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/_Project/_Main/Map/MainMap.umap"
+>>>>>>> Dev
 			]
 		}
 	]
