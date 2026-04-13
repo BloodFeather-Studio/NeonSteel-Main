@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Hazards/Sliceable/BP_Sliceable.uasset",
+				"D:/TFS/Capstone/Main/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/_GENERATED/brand/SliceWall.uasset",
 				"C:/Users/pavly/OneDrive/Desktop/Capstone 2026/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Player/BP_Player.uasset",
 				"C:/Users/pavly/OneDrive/Desktop/Capstone 2026/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Player/BP_PlayerSword.uasset",
 				"C:/Users/pavly/OneDrive/Desktop/Capstone 2026/NeonSteel-Main/NeonSteelMain_V1_1/Content/Pavly/Enums/E_PickupType.uasset",
