@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Neon Steel/Github/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Hazards/BP_Hazard_Base.uasset",
+				"C:/Neon Steel/Github/NeonSteel-Main/NeonSteelMain_V1_1/Content/_Project/_Main/Map/MainMap.umap",
 				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Enemies/AI/EnemyShield/BP_EnergyShield.uasset",
 				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Enemies/BP_Enemy_Shield.uasset",
 				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/7/JW/477Z141EOPJKCX8ZZ7JHLA.uasset",
