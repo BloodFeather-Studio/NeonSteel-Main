@@ -5,14 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Neon Steel/Github/NeonSteel-Main/NeonSteelMain_V1_1/Content/_Project/_Main/Map/MainMap.umap",
-				"C:/Neon Steel/Github/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Player/BP_Player.uasset",
-				"C:/Neon Steel/Github/NeonSteel-Main/NeonSteelMain_V1_1/Content/KadeModel/M_Kade_low.uasset",
-				"C:/Neon Steel/Github/NeonSteel-Main/NeonSteelMain_V1_1/Content/KadeModel/M_Kade_low_B.uasset",
-				"C:/Neon Steel/Github/NeonSteel-Main/NeonSteelMain_V1_1/Content/KadeModel/Kade_Official_GeoAndSkel_PhysicsAsset.uasset",
-				"C:/Neon Steel/Github/NeonSteel-Main/NeonSteelMain_V1_1/Content/KadeModel/Kade_Official_GeoAndSkel_Skeleton.uasset",
-				"C:/Neon Steel/Github/NeonSteel-Main/NeonSteelMain_V1_1/Content/KadeModel/Kade_Official_GeoAndSkel.uasset",
-				"C:/Neon Steel/Github/NeonSteel-Main/NeonSteelMain_V1_1/Content/KadeModel/Kade_Official_GeoAndSkel_Anim.uasset"
+				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Enemies/BP_Enemy_Base.uasset",
+				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/DamageSystem/Enums/E_AIState.uasset",
+				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Enemies/AI/AIC_Enemy_Base.uasset",
+				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Enemies/AI/BehaviorTrees/BT_Enemy_Base.uasset",
+				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Enemies/AI/BehaviorTrees/BT_Enemy_Ranged.uasset",
+				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Player/BP_Player.uasset",
+				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Player/BP_PlayerSword.uasset",
+				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Enemies/BP_Enemy_Ranged.uasset",
+				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/DamageSystem/Projectiles/BP_EProjectile_Bullet.uasset",
+				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/DamageSystem/Projectiles/BP_ProjectileEnemy.uasset",
+				"C:/Users/Planett/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Raymond/BP_TutorialBoards.uasset",
+				"C:/Users/Planett/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/_Project/_Main/Map/MainMap.umap"
 			]
 		}
 	]
