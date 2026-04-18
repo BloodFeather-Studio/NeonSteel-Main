@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Neon Steel/Github/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Player/BP_Player.uasset",
 				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Enemies/BP_Enemy_Base.uasset",
 				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/DamageSystem/Enums/E_AIState.uasset",
 				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Enemies/AI/AIC_Enemy_Base.uasset",
