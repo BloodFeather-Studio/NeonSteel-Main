@@ -6,7 +6,30 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Arian/Settings/WBP_Graphics.uasset",
-				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Arian/MainMenu/BluePrints/WBP_MainMenu.uasset"
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Arian/MainMenu/BluePrints/WBP_MainMenu.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Arian/Settings/WBP_AdvancedGrapics.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Arian/Settings/WBP_Settings.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Arian/Settings/WBP_Display.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Arian/Settings/WBP_Audio.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Arian/Settings/WBP_Accessibility.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Arian/Human_HUD/WBP_PlayerHud.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Arian/Human_HUD/CONFIG_3_ITERATION_VECTOR_DARKEN.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Alex/SaveLoad/BP_GameInstance.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Arian/Settings/Reusables/WBP_SettingsSelectorRow.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Arian/Settings/Old/WBP_AdvancedGrapics_Old.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Arian/Settings/Old/WBP_Graphics_Old.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Arian/Settings/Old/WBP_Settings_Old.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Arian/Settings/WBP_AdvancedGrapicsOld2.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Arian/Settings/Old/WBP_AdvancedGrapicsOld2.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Arian/Settings/WBP_GraphicsOld2.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Arian/Settings/Old/WBP_GraphicsOld2.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Arian/Settings/WBP_SettingsOld2.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Arian/Settings/Old/WBP_SettingsOld2.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Arian/Settings/WBP_AdvancedGraphics.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Arian/Settings/WBP_Settings_Old.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Arian/Settings/WBP_Graphics_Old.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Arian/Settings/WBP_AdvancedGrapics_Old.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main#/NeonSteelMain_V1_1/Content/Arian/Settings/WBP_SettingsTest.uasset"
 			]
 		}
 	]
