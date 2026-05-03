@@ -1,25 +1,44 @@
 #################################
-# Unreal Engine (generated)
+# Unreal Engine generated files
 #################################
 **/Binaries/
 **/DerivedDataCache/
 **/Intermediate/
 **/Saved/
 
-# Optional: common UE generated artifacts
-**/Build/                # sometimes contains generated files (keep if you rely on Build scripts)
-*.tmp
-*.bak
-*.old
-*.orig
+# Packaged builds and staged output
+/Windows/
+/WindowsNoEditor/
+/Linux/
+/LinuxNoEditor/
+/Mac/
+/MacNoEditor/
+/Android/
+/IOS/
+/Builds/
+/Releases/
+**/Build/Windows/
+**/Build/Linux/
+**/Build/Mac/
+**/Build/Android/
+**/Build/IOS/
+
+# Unreal per-user editor settings
+**/Config/DefaultEditorPerProjectUserSettings.ini
 
 # Logs / crash data
 *.log
 **/Crashes/
 **/CrashReportClient/
 
+# Temporary/back-up files
+*.tmp
+*.bak
+*.old
+*.orig
+
 #################################
-# Visual Studio / VS Code (generated)
+# Visual Studio / VS Code
 #################################
 .vs/
 .vscode/
@@ -39,7 +58,7 @@
 *.sln.docstates
 
 #################################
-# JetBrains Rider / IntelliJ (generated)
+# JetBrains Rider / IntelliJ
 #################################
 .idea/
 *.sln.DotSettings.user
@@ -53,10 +72,8 @@ ehthumbs.db
 Desktop.ini
 
 #################################
-# (Choose ONE policy) Solution / project files
+# Generated IDE project files
 #################################
-
-# OPTION A (common for UE teams): ignore generated IDE project files
 *.sln
 *.csproj
 *.vcxproj
