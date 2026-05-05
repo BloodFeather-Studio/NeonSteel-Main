@@ -206,8 +206,20 @@
 				"C:/Users/ryanr/Documents/CapstoneGit/NeonSteel-Main/NeonSteelMain_V1_1/Content/_Project/_Main/Map/Assets/Decals/M_RoadCrack1.uasset",
 				"C:/Users/ryanr/Documents/CapstoneGit/NeonSteel-Main/NeonSteelMain_V1_1/Content/_Project/_Main/Map/Assets/3DProps/Sawblade/NotImportantNoTouchyTouchy/SawbladeAnim2_Physics.uasset",
 				"C:/Users/ryanr/Documents/CapstoneGit/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Hazards/BP_Hazard_Sawblade.uasset",
+<<<<<<< HEAD
 				"C:/Users/ryanr/Documents/CapstoneGit/NeonSteel-Main/NeonSteelMain_V1_1/Content/_Project/_Main/Map/Assets/3DProps/ShipyardObjects/SM_SM_Stairs_Simple_A.uasset",
 				"C:/Users/ryanr/Documents/CapstoneGit/NeonSteel-Main/NeonSteelMain_V1_1/Content/_Project/_Main/Map/Assets/3DProps/Sawblade/BP_Sawblade.uasset",
+=======
+				"C:/Users/ryanr/Documents/CapstoneGit/NeonSteel-Main/NeonSteelMain_V1_1/Content/_Project/_Main/Map/Assets/3DProps/MasterMaterial_Inst.uasset",
+				"C:/Users/ryanr/Documents/CapstoneGit/NeonSteel-Main/NeonSteelMain_V1_1/Content/_Project/_Main/Map/Assets/3DProps/MasterMaterial1.uasset",
+				"C:/Users/ryanr/Documents/CapstoneGit/NeonSteel-Main/NeonSteelMain_V1_1/Content/_Project/_Main/Map/Assets/3DProps/M_SurfaceMaster.uasset",
+				"C:/Users/ryanr/Documents/CapstoneGit/NeonSteel-Main/NeonSteelMain_V1_1/Content/_Project/_Main/Map/Assets/3DProps/M_2DObjectMaster.uasset",
+				"C:/Users/ryanr/Documents/CapstoneGit/NeonSteel-Main/NeonSteelMain_V1_1/Content/_Project/_Main/Map/Assets/3DProps/M_VFXMaster.uasset",
+				"C:/Users/ryanr/Documents/CapstoneGit/NeonSteel-Main/NeonSteelMain_V1_1/Content/_Project/_Main/Map/Assets/3DProps/M_DecalMaster1.uasset",
+				"C:/Users/ryanr/Documents/CapstoneGit/NeonSteel-Main/NeonSteelMain_V1_1/Content/_Project/_Main/Map/Assets/2DProps/M_2DDuskBuildings1.uasset",
+				"C:/Users/ryanr/Documents/CapstoneGit/NeonSteel-Main/NeonSteelMain_V1_1/Content/_Project/_Main/Map/Assets/2DProps/M_DuskSky.uasset",
+				"C:/Users/ryanr/Documents/CapstoneGit/NeonSteel-Main/NeonSteelMain_V1_1/Content/_Project/_Main/Map/Assets/3DProps/M_DecalMaster.uasset",
+>>>>>>> FEAT_Materials
 				"C:/Users/ryanr/Documents/CapstoneGit/NeonSteel-Main/NeonSteelMain_V1_1/Content/_Project/_Main/Map/Assets/3DProps/RevampedShipyardAssets/Material__158.uasset",
 				"C:/Neon Steel/Github/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Player/BP_Player.uasset",
 				"C:/Neon Steel/Github/NeonSteel-Main/NeonSteelMain_V1_1/Content/_Project/_Main/Map/MainMap.umap",
