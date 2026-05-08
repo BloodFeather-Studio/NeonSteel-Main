@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Neon Steel/Repo/NeonSteel-Main/NeonSteelMain_V1_1/Content/Arian/Settings/SettingsData/BP_NeonSteelUserSettingsSave.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main/NeonSteelMain_V1_1/Content/Arian/Settings/WBP_Display.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main/NeonSteelMain_V1_1/Content/Arian/Settings/Reusables/WBP_SettingsSliderRow.uasset",
+				"E:/Neon Steel/Repo/NeonSteel-Main/NeonSteelMain_V1_1/Content/Arian/Settings/Reusables/WBP_SettingsSelectorRow.uasset",
 				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Enemies/BP_Enemy_Base.uasset",
 				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/DamageSystem/Enums/E_AIState.uasset",
 				"C:/Users/ethan/Documents/Unreal Projects/NeonSteel-Main/NeonSteelMain_V1_1/Content/Variant_SideScroller/Blueprints/Enemies/AI/AIC_Enemy_Base.uasset",
