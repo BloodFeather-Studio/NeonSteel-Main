@@ -1,10 +1,10 @@
 #################################
 # Unreal Engine generated files
 #################################
-**/Binaries/
-**/DerivedDataCache/
-**/Intermediate/
-**/Saved/
+**/Binaries/**
+**/DerivedDataCache/**
+**/Intermediate/**
+**/Saved/**
 
 # Packaged builds and staged output
 /Windows/
